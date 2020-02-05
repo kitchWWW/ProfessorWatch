@@ -1,0 +1,19 @@
+{ 
+   "manifest_version":2,
+   "name":"Professor Watch",
+   "description":"Know if a class is taught by a professor accused of sexual misconduct. University of Texas at Austin only.",
+   "version":"1.2",
+   "permissions": ["https://utdirect.utexas.edu/*"],
+   "icons": { "16": "icon16.png", "128": "icon128.png"},
+   "content_scripts":[ 
+      { 
+         "matches":[ 
+            "https://utdirect.utexas.edu/*"
+         ],
+         "js":[ 
+            "content.js"
+         ],
+         "run_at":"document_end"
+      }
+   ]
+}
