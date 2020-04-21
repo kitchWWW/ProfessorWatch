@@ -13,6 +13,6 @@ Color code meanings:
 - Red: UT's Title IX Office found the professor violated sexual misconduct policies.
 - Orange: A major media outlet has reported allegations of violating behavior, but as of right now (April, 2020) the Title IX Office has not provided information on this faculty member.
 
-For more information about which cases are publicly available, please read: https://utmisconduct.wordpress.com/about-the-data/"
+For more information about which cases are publicly available, please read: https://utmisconduct.wordpress.com/about-the-data/
 
 This extension was not created nor endorsed by the University.
