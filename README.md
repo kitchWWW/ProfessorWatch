@@ -11,6 +11,8 @@ At UT-Austin, professors who have violated sexual misconduct policies are still 
 Color code meanings:
 
 - Red: UT's Title IX Office found the professor violated sexual misconduct policies.
-- Orange: A major media outlet has reported allegations of violating behavior, but the Title IX Office has NOT found a violation.
+- Orange: A major media outlet has reported allegations of violating behavior, but as of right now (April, 2020) the Title IX Office has not provided information on this faculty member.
 
-This extension was not created nor is endorsed by the University.
+For more information about which cases are publicly available, please read: https://utmisconduct.wordpress.com/about-the-data/"
+
+This extension was not created nor endorsed by the University.
